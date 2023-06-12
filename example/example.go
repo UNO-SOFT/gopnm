@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/jbuchbinder/gopnm"
+	"github.com/UNO-SOFT/gopnm"
 	"image"
 	"log"
 	"os"

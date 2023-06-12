@@ -10,7 +10,7 @@
 //
 // To only be able to load pnm images using image.Decode, use
 //
-//	import _ "github.com/jbuchbinder/gopnm"
+//	import _ "github.com/UNO-SOFT/gopnm"
 //
 // Not implemented are:
 //   - Writing pnm files in raw format.

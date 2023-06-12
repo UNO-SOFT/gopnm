@@ -1,7 +1,7 @@
-module github.com/jbuchbinder/gopnm/example
+module github.com/UNO-SOFT/gopnm/example
 
 go 1.18
 
-replace github.com/jbuchbinder/gopnm => ../
+replace github.com/UNO-SOFT/gopnm => ../
 
-require github.com/jbuchbinder/gopnm v0.0.0-00010101000000-000000000000
+require github.com/UNO-SOFT/gopnm v0.0.0-00010101000000-000000000000
